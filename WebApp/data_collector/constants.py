@@ -1,0 +1,47 @@
+glob = "global"
+
+class Constants:
+    PLACES_DETAIL_FIELD = [
+        "place_id",
+        "name",
+        "opening_hours",
+        "price_level",
+        "rating",
+        "review",
+        "user_ratings_total",
+        "type",
+        "website",
+        "geometry",
+        "formatted_phone_number",
+        "formatted_address",
+        "business_status",
+        "vicinity",
+        "url"
+    ]
+    PLACES_TYPE = [
+        'amusement_park',
+        'aquarium',
+        'art_gallery',
+        'bakery',
+        'bar',
+        'book_store',
+        'bowling_alley',
+        'cafe',
+        'campground',
+        'casino',
+        'convenience_store',
+        'hindu_temple',
+        'library',
+        'light_rail_station',
+        'mosque',
+        'movie_theater',
+        'museum',
+        'night_club',
+        'park',
+        'parking',
+        'restaurant',
+        'shopping_mall',
+        'stadium',
+        'tourist_attraction',
+        'zoo',
+    ]

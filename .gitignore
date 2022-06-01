@@ -1,0 +1,7 @@
+.env
+WebApp/data_collector/datas/**/*.csv
+WebApp/data_collector/__pycache__/constants.cpython-38.pyc
+Pipfile
+WebApp/data_collector/utils/__pycache__/file_utils.cpython-38.pyc
+WebApp/data_collector/__pycache__/google_places_data_collect.cpython-38.pyc
+.vscode/settings.json
