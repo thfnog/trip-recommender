@@ -5,3 +5,4 @@ Pipfile
 WebApp/data_collector/utils/__pycache__/file_utils.cpython-38.pyc
 WebApp/data_collector/__pycache__/google_places_data_collect.cpython-38.pyc
 .vscode/settings.json
+.env
